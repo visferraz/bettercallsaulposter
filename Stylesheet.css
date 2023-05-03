@@ -1,0 +1,28 @@
+html {
+    background-color: bisque;
+    text-align: center;
+}
+
+.poster {
+    text-transform: uppercase;
+    font-family: 'Comme', sans-serif;
+    text-align: center;
+    margin: 55px;
+    padding: 20px;
+    width: 100;
+    
+}
+
+img {
+    width: 100;
+    border: 5px solid black;
+}
+
+.h1 {
+    text-align: center;
+}
+
+.p {
+    text-align: center;
+    font-style: italic;
+}
